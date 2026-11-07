@@ -1,0 +1,5 @@
+id-descripcion
+1- primera sala a la derecha
+2- segunda sala a la derecha
+3- primera sala a la izquierda
+4- segunda sala a la izquierda

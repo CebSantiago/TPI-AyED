@@ -29,9 +29,9 @@ Cada función deberá contar, como mínimo, con los siguientes datos:
 La aplicación deberá permitir:
 
 1. Registrar una nueva función.
-2. Consultar todas las funciones registradas.
-3. Buscar una función por su código.
-4. Buscar funciones mediante el nombre completo o parcial de la obra.
+Creo que taria 2. Consultar todas las funciones registradas.
+Creo que taria 3. Buscar una función por su código.
+Creo que taria 4. Buscar funciones mediante el nombre completo o parcial de la obra.
 5. Mostrar un mensaje apropiado cuando no existan coincidencias.
 6. Ordenar las funciones según un criterio definido por el equipo, por ejemplo, nombre de la obra o fecha.
 
